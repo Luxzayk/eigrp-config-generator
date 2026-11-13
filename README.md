@@ -4,7 +4,7 @@ Generador web, ligero y sin dependencias para crear configuraciones básicas de 
 
 La herramienta funciona completamente en el navegador: no requiere servidor, instalación, compilación ni conexión a Internet una vez descargado el archivo HTML.
 
-## Características
+## Característicasss
 
 - Generación de comandos EIGRP por router.
 - Soporte para múltiples redes LAN y WAN.
