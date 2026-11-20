@@ -23,7 +23,7 @@ Solo necesitas un navegador moderno con soporte para JavaScript y la API del por
 
 Navegadores recomendados:
 
-- Google Chrome o Chromium
+- Google Chrome o Chromiummmm
 - Mozilla Firefox
 - Microsoft Edge
 - Safari
